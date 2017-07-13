@@ -3,3 +3,5 @@ QLibrary Example
 
 Simple example of QLibrary to load external components (plugins).
 
+In-code documentation is in French as well as program messages, as it is teaching material for
+French-speaking fellows.

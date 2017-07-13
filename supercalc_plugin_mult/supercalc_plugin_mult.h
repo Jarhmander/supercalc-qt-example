@@ -4,6 +4,7 @@
 #include "supercalc_plugin_mult_global.h"
 #include "../supercalc/supercalcplugin.h"
 
+// Classe de multiplication.
 class Supercalc_plugin_mult : public SuperCalcPlugin
 {
 
